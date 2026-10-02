@@ -3,7 +3,7 @@ const cultureData = [
     id: 1,
     title: '비빔밥',
     category: '맛',
-    image: '.../public/images/img-culture01.jpg',
+    image: 'file:///c%3A/kdt_class/web_pub/react/korea-culture-app/public/images/img-culture01.jpg',
     shortDesc: '한국을 대표하는 다채로운 한 그릇 음식',
     desc: '비빔밥은 밥 위에 나물, 고기, 계란, 고추장을 올려 비벼 먹는 한국의 대표 음식입니다. 재료가 다양하게 들어가 색감이 아름답고 영양 균형도 뛰어납니다.'
   },
