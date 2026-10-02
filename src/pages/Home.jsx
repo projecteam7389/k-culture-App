@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import cultureData from '../data/cultureData'
 import SectionTitle from '../components/SectionTitle';
-//import CultureCard from '../components/CultureCard';
+import CultureCard from '../components/CultureCard';
 
 function Home() {
     const [selectCategory, setSelectCategory] = useState('전체')
