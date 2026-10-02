@@ -3,7 +3,7 @@ const cultureData = [
     id: 1,
     title: '비빔밥',
     category: '맛',
-    image: 'https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?q=80&w=1631',
+    image: '.../public/images/img-culture01.jpg',
     shortDesc: '한국을 대표하는 다채로운 한 그릇 음식',
     desc: '비빔밥은 밥 위에 나물, 고기, 계란, 고추장을 올려 비벼 먹는 한국의 대표 음식입니다. 재료가 다양하게 들어가 색감이 아름답고 영양 균형도 뛰어납니다.'
   },
@@ -11,7 +11,7 @@ const cultureData = [
     id: 2,
     title: '김치',
     category: '맛',
-    image: '/images/img-culture02.jpg',
+    image: '../public//images/img-culture02.jpg',
     shortDesc: '발효의 깊은 맛을 담은 한국의 전통 음식',
     desc: '김치는 배추나 무를 소금에 절인 뒤 고춧가루, 마늘, 젓갈 등으로 양념해 발효시킨 음식입니다. 한국 식문화에서 매우 중요한 위치를 차지합니다.'
   },
